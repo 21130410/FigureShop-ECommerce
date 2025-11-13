@@ -1,0 +1,11 @@
+D:\ASPNet\FigureShopServer\FigureShopSharedLibrary\bin\Debug\net8.0\FigureShopSharedLibrary.deps.json
+D:\ASPNet\FigureShopServer\FigureShopSharedLibrary\bin\Debug\net8.0\FigureShopSharedLibrary.dll
+D:\ASPNet\FigureShopServer\FigureShopSharedLibrary\bin\Debug\net8.0\FigureShopSharedLibrary.pdb
+D:\ASPNet\FigureShopServer\FigureShopSharedLibrary\obj\Debug\net8.0\FigureShopSharedLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASPNet\FigureShopServer\FigureShopSharedLibrary\obj\Debug\net8.0\FigureShopSharedLibrary.AssemblyInfoInputs.cache
+D:\ASPNet\FigureShopServer\FigureShopSharedLibrary\obj\Debug\net8.0\FigureShopSharedLibrary.AssemblyInfo.cs
+D:\ASPNet\FigureShopServer\FigureShopSharedLibrary\obj\Debug\net8.0\FigureShopSharedLibrary.csproj.CoreCompileInputs.cache
+D:\ASPNet\FigureShopServer\FigureShopSharedLibrary\obj\Debug\net8.0\FigureShopSharedLibrary.dll
+D:\ASPNet\FigureShopServer\FigureShopSharedLibrary\obj\Debug\net8.0\refint\FigureShopSharedLibrary.dll
+D:\ASPNet\FigureShopServer\FigureShopSharedLibrary\obj\Debug\net8.0\FigureShopSharedLibrary.pdb
+D:\ASPNet\FigureShopServer\FigureShopSharedLibrary\obj\Debug\net8.0\ref\FigureShopSharedLibrary.dll

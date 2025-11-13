@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ASPNet\\FigureShopServer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BE60FA7D-2931-4944-8DE9-05055E1C1E4C}|FigureShopServer\\FigureShopServer.csproj|d:\\aspnet\\figureshopserver\\figureshopserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE60FA7D-2931-4944-8DE9-05055E1C1E4C}|FigureShopServer\\FigureShopServer.csproj|solutionrelative:figureshopserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD43F539-4AC0-424F-9FFC-14655DD0A7C5}|FigureShopSharedLibrary\\FigureShopSharedLibrary.csproj|d:\\aspnet\\figureshopserver\\figureshopsharedlibrary\\figureshopsharedlibrary.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FD43F539-4AC0-424F-9FFC-14655DD0A7C5}|FigureShopSharedLibrary\\FigureShopSharedLibrary.csproj|solutionrelative:figureshopsharedlibrary\\figureshopsharedlibrary.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE60FA7D-2931-4944-8DE9-05055E1C1E4C}|FigureShopServer\\FigureShopServer.csproj|d:\\aspnet\\figureshopserver\\figureshopserver\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BE60FA7D-2931-4944-8DE9-05055E1C1E4C}|FigureShopServer\\FigureShopServer.csproj|solutionrelative:figureshopserver\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C12A203-5A9B-4607-9B7B-BF148A394620}|FigureShopClient\\FigureShopClient.csproj|d:\\aspnet\\figureshopserver\\figureshopclient\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8C12A203-5A9B-4607-9B7B-BF148A394620}|FigureShopClient\\FigureShopClient.csproj|solutionrelative:figureshopclient\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FigureShopSharedLibrary",
+              "DocumentMoniker": "D:\\ASPNet\\FigureShopServer\\FigureShopSharedLibrary\\FigureShopSharedLibrary.csproj",
+              "RelativeDocumentMoniker": "FigureShopSharedLibrary\\FigureShopSharedLibrary.csproj",
+              "ToolTip": "D:\\ASPNet\\FigureShopServer\\FigureShopSharedLibrary\\FigureShopSharedLibrary.csproj",
+              "RelativeToolTip": "FigureShopSharedLibrary\\FigureShopSharedLibrary.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-13T09:30:29.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\ASPNet\\FigureShopServer\\FigureShopServer\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "FigureShopServer\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\ASPNet\\FigureShopServer\\FigureShopServer\\Properties\\launchSettings.json",
+              "RelativeToolTip": "FigureShopServer\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACMAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-13T09:03:44.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\ASPNet\\FigureShopServer\\FigureShopClient\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "FigureShopClient\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\ASPNet\\FigureShopServer\\FigureShopClient\\Properties\\launchSettings.json",
+              "RelativeToolTip": "FigureShopClient\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAB1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-13T09:02:11.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ASPNet\\FigureShopServer\\FigureShopServer\\Program.cs",
+              "RelativeDocumentMoniker": "FigureShopServer\\Program.cs",
+              "ToolTip": "D:\\ASPNet\\FigureShopServer\\FigureShopServer\\Program.cs",
+              "RelativeToolTip": "FigureShopServer\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAgwBYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T08:31:06.183Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
