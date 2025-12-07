@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "FigureShopClient",
   "resources": {
-    "hash": "sha256-LYfypZ8avCkGrIAOqNhmZlHEF0k0ni1UxyV8L6SUm6g=",
+    "hash": "sha256-WlQwvVCh5JkBk27bSPJwd3IUs+A9GNNPbU1gUNhnvcI=",
     "jsModuleNative": {
       "dotnet.native.js": "sha256-9Fzd5We95Rp03dEKIAbYjPDR3eWyLbmjMlYStvxyiok="
     },
@@ -209,12 +209,12 @@
       "mscorlib.wasm": "sha256-MZJ1V6miMP318lQowft4FPkcszcibPLDTwKj235fSAc=",
       "netstandard.wasm": "sha256-RYAURbR1AHkUZYjKgu+B/i3N3VP4abnAaH+vxwJ8d3c=",
       "System.Private.CoreLib.wasm": "sha256-4YzdATaWUDkUkRpe+hl+T61TaCjRVapVUtqTIai3Gd8=",
-      "FigureShopSharedLibrary.wasm": "sha256-/OMYCcarCavmGsjRE6FAFpw8OcfsG0GrkGY2wSD73AQ=",
-      "FigureShopClient.wasm": "sha256-tTWgXw+CHiWZQ46RhGjTCsMsb9iIJRgbWlbXczy/Uhw="
+      "FigureShopSharedLibrary.wasm": "sha256-b/GNaSq8QpkPKk7PfJymT+RE27brR2PXA7PgX0PLgRM=",
+      "FigureShopClient.wasm": "sha256-Hg1xlT7yCyVgphTHtO4DO8brQk8KlE+q10qsqiKQfac="
     },
     "pdb": {
-      "FigureShopSharedLibrary.pdb": "sha256-KFofCApx+lJ5wDW+IKhxAydEppSGdqe626r6AgdJW5w=",
-      "FigureShopClient.pdb": "sha256-K5sVbQJok+q9LqeTfEOunxXJNxowsh9pFuOroMqwbik="
+      "FigureShopSharedLibrary.pdb": "sha256-QdMQAfqdEnhMlFsMxTaotUbhSTyJo04RyjLYaTidVjU=",
+      "FigureShopClient.pdb": "sha256-bqtz24AcPliQX9UbuyvG78V4+lpMLYk8tIiXIg7q2AQ="
     }
   },
   "cacheBootResources": true,

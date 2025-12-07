@@ -1,2 +1,10 @@
 D:\ASPNet\FigureShopServer\FigureShopClient\obj\Debug\net8.0\staticwebassets.build.json
 D:\ASPNet\FigureShopServer\FigureShopClient\obj\Debug\net8.0\staticwebassets.build.json
+D:\ASPNet\FigureShopServer\FigureShopClient\obj\Debug\net8.0\staticwebassets.build.json
+D:\ASPNet\FigureShopServer\FigureShopClient\obj\Debug\net8.0\staticwebassets.build.json
+D:\ASPNet\FigureShopServer\FigureShopClient\obj\Debug\net8.0\staticwebassets.build.json
+D:\ASPNet\FigureShopServer\FigureShopClient\obj\Debug\net8.0\staticwebassets.build.json
+D:\ASPNet\FigureShopServer\FigureShopClient\obj\Debug\net8.0\staticwebassets.build.json
+D:\ASPNet\FigureShopServer\FigureShopClient\obj\Debug\net8.0\staticwebassets.build.json
+D:\ASPNet\FigureShopServer\FigureShopClient\obj\Debug\net8.0\staticwebassets.build.json
+D:\ASPNet\FigureShopServer\FigureShopClient\obj\Debug\net8.0\staticwebassets.build.json

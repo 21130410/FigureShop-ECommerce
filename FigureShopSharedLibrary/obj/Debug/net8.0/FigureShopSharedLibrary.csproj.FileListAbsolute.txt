@@ -9,3 +9,4 @@ D:\ASPNet\FigureShopServer\FigureShopSharedLibrary\obj\Debug\net8.0\FigureShopSh
 D:\ASPNet\FigureShopServer\FigureShopSharedLibrary\obj\Debug\net8.0\refint\FigureShopSharedLibrary.dll
 D:\ASPNet\FigureShopServer\FigureShopSharedLibrary\obj\Debug\net8.0\FigureShopSharedLibrary.pdb
 D:\ASPNet\FigureShopServer\FigureShopSharedLibrary\obj\Debug\net8.0\ref\FigureShopSharedLibrary.dll
+D:\ASPNet\FigureShopServer\FigureShopSharedLibrary\obj\Debug\net8.0\FigureShopSharedLibrary.sourcelink.json
