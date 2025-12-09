@@ -1043,6 +1043,7 @@ D:\ASPNet\FigureShopServer\FigureShopClient\obj\Debug\net8.0\webcil\FigureShopSh
 D:\ASPNet\FigureShopServer\FigureShopClient\obj\Debug\net8.0\FigureShopClient.sourcelink.json
 D:\ASPNet\FigureShopServer\FigureShopClient\obj\Debug\net8.0\compressed\3c5o86fm1o-f8s2ylmj3e.gz
 D:\ASPNet\FigureShopServer\FigureShopClient\obj\Debug\net8.0\compressed\vtuo4220n2-txgeafezp2.gz
-D:\ASPNet\FigureShopServer\FigureShopClient\obj\Debug\net8.0\compressed\terffmj8bq-6eep4hdbnj.gz
-D:\ASPNet\FigureShopServer\FigureShopClient\obj\Debug\net8.0\compressed\95feon97jf-m3tlqda2di.gz
-D:\ASPNet\FigureShopServer\FigureShopClient\obj\Debug\net8.0\compressed\9qsd04q26v-lgqpd4772h.gz
+D:\ASPNet\FigureShopServer\FigureShopClient\bin\Debug\net8.0\libman.json
+D:\ASPNet\FigureShopServer\FigureShopClient\obj\Debug\net8.0\compressed\terffmj8bq-25h3uqgv17.gz
+D:\ASPNet\FigureShopServer\FigureShopClient\obj\Debug\net8.0\compressed\95feon97jf-yugay1jg4l.gz
+D:\ASPNet\FigureShopServer\FigureShopClient\obj\Debug\net8.0\compressed\9qsd04q26v-89u6ep5su0.gz

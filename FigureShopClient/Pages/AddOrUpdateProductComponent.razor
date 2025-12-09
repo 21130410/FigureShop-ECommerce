@@ -1,0 +1,83 @@
+﻿@page "/add-product"
+@using FigureShopSharedLibrary.Models
+<div class="container">
+    <div class="row">
+        <div class="col-md-6">
+            <EditForm Model="MyProduct" Enhance OnInvalidSubmit="HandleSaveProduct">
+                <DataAnnotationsValidator></DataAnnotationsValidator>
+                <ValidationSummary></ValidationSummary>
+                <div class="card">
+                    <div class="card-header">Thêm Sản Phẩm</div>
+                    <div class="card-body">
+                        <div class="form-group mt-3">
+                        <div class="form-label">Tên Sản Phẩm</div>
+                        <InputText @bind-Value="MyProduct.Name" class="form-control"></InputText> 
+                        </div>
+
+                        <div class="form-group mt-3">
+                        <div class="form-label">Giá</div>
+                        <InputNumber @bind-Value="MyProduct.Price" class="form-control"></InputNumber> 
+                        </div>
+
+                        <div class="form-group mt-3">
+                        <div class="form-label">Số Lượng</div>
+                        <InputNumber @bind-Value="MyProduct.Quality" class="form-control"></InputNumber> 
+                        </div>
+
+                        <div class="form-group mt-3">
+                        <div class="form-label">Mô tả</div>
+                            <InputText @bind-Value="MyProduct.Description" class="form-control"></InputText>
+                        </div>
+
+                        <div class="form-group mt-3">
+                            <div class="form-label @( ImageUploadMessege == ""?"":"text-danger")">
+                                @(ImageUploadMessege == "" ? "Upload Image" : ImageUploadMessege)
+                        </div>
+                        <InputFile @bind-Value="MyProduct.Img" OnChange="UploadImage" class="form-control"></InputFile> 
+                        </div>
+                    </div>
+                    <div class="card-footer">
+                        <div class="form-group ">
+                            @if (ShowSaveButton)
+                            {
+                                <button type="submit" class="btn btn-outline-primary"> <i class="fa fa-plus"></i> Lưu </button>
+                            }
+
+                        </div>
+                        
+                        <BusyButtonComponent ShowBusyButton="ShowBusyButton"></BusyButtonComponent>
+                    </div>
+                </div>
+            </EditForm>
+
+        </div>
+    </div>
+</div>
+@code {
+    Product MyProduct = new();
+    async Task HandleSaveProduct()
+    {
+
+    }
+    String ImageUploadMessege;
+    async Task UploadImage(InputFileChangeEventArgs e)
+    {
+        if(e.File.Name.ToLower().Contains(".png"))
+        {
+            var format = "image/png";
+            var resizeImage = await e.File.RequestImageFileAsync(format, 300, 300);
+            var buffer = new Byte[resizeImage.Size];
+            await resizeImage.OpenReadStream().ReadAsync(buffer);
+            var imageData = $"data:{format};base64,{Convert.ToBase64String(buffer)}";
+            ImageUploadMessege = "";
+            MyProduct.Img = imageData; //imgbase64
+            imageData = "";
+            return;
+        }
+        ImageUploadMessege = "PNG file needed";
+        return;
+    }
+    bool ShowSaveButton { get; set; } = true;
+    bool ShowBusyButton { get; set; } 
+}
+

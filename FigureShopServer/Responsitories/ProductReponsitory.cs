@@ -22,11 +22,11 @@ namespace FigureShopServer.Responsitories
             
             // đây là destruction same destructuring on js
             var (flag,message) = await CheckName(model.Name);
-    // check name trả về 1 task obj(2 giá trị), tương tự  ValueTuple --> có thể trả về nhiều giá trị, trả về obj,có thể lấy nhiều giá trị từ obj đó 
-    //public (bool flag, string msg, int code) Test()
-    //    {
-    //        return (true, "success", 200);
-    //    } --> đây là 1 valuetuple
+            // check name trả về 1 task obj(2 giá trị), tương tự  ValueTuple --> có thể trả về nhiều giá trị, trả về obj,có thể lấy nhiều giá trị từ obj đó 
+            //public (bool flag, string msg, int code) Test()
+            //    {
+            //        return (true, "success", 200);
+            //    } --> đây là 1 valuetuple
             if (flag)
             {
                 appDBContext.Products.Add(model); // auto sql create but Chỉ đánh dấu Added — chưa lưu!
@@ -40,7 +40,7 @@ namespace FigureShopServer.Responsitories
         public async Task<List<Product>> GetAllProducts(bool featuredProducts)
         {
             if (featuredProducts) 
-                return await appDBContext.Products.Where( product => product.Featured).ToListAsync();// cú pháp linq where
+                 return await appDBContext.Products.Where( product => product.Featured).ToListAsync();// cú pháp linq where
             else return await appDBContext.Products.ToListAsync();
         }
         // checkname

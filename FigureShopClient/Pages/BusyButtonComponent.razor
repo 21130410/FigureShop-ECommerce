@@ -1,0 +1,12 @@
+﻿@if (ShowBusyButton)
+{
+    <button class="btn btn-primary" type="button" disabled>
+        <span class="spinner-border spinner-border-sm" role="status" aria-hidden="true"></span>
+        Đang tải, hãy đợi tí.........
+
+    </button>
+}
+@code {
+    // tham số truyền vào cho component tự tạo này
+    [Parameter] public bool ShowBusyButton { get; set; }
+}
