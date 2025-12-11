@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FigureShopServer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b8a47c9860817abe0538e97ae122a7cf9ad20258")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9db13dd62857aa569735d6c60ed1f3bf22cea15e")]
 [assembly: System.Reflection.AssemblyProductAttribute("FigureShopServer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FigureShopServer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

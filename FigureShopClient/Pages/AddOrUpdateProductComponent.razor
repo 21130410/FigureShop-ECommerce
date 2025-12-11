@@ -54,9 +54,17 @@
     </div>
 </div>
 @code {
-    Product MyProduct = new();
+    Product MyProduct = new Product();
     async Task HandleSaveProduct()
     {
+        ShowSaveButton = false;
+        ShowBusyButton = !ShowSaveButton;
+        if (string.IsNullOrEmpty(MyProduct.Img))
+        {
+            messageDialog!.SetDiaLogValues("warning", "Bạn cần thêm ảnh");
+            setMessageDialog();
+            return;
+        }
 
     }
     String ImageUploadMessege;
